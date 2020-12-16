@@ -6,5 +6,8 @@
 		<header>
 			<h1>Git</h1>
 		</header>
+		<ul>
+			<li>브랜치</li>
+		</ul>
 	</body>
 </html>
